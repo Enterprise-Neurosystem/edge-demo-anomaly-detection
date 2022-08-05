@@ -8,7 +8,7 @@ All source code and data used this demo can be found in this repository:
 |  | **File**                                  |                                                              Description                                                         |
 |-:|:----------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------|
 | 1| [static](../static)                 |      Contains synthetic data used in the demo |
-| 2| [wsgi.py](../wsgi.py)      |     Calls main.html and ...                                                   |
+| 2| [wsgi.py](../wsgi.py)      |     Gunicorn server, calls main.html and obtains data                                     |
 | 3| [config.py](../config.py)    | Establishes 2-way socket communication |
 | 4| [requirements.txt](../requirements.txt) | Specifies default required packages |
 | 5| [main.html](../templates/main.html)  | Defines application framework | 
