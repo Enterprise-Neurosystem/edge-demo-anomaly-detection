@@ -7,3 +7,12 @@ A data collector will be used to receive raw sensor data and then place the data
 
 ## Anomaly Detection Demo
 Demo application that displays web user interface to allow users to generate a graph displaying pump data and associated anomalies. The demo utilizes synthetic data that mimics real life sensor data.
+
+
+---
+
+|  | **Resource**                                  |                                                              Links                                                         |
+|-:|:----------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------|
+| 1| Synthetic Data                                  | [Click Here](../static/casing1correcteddate.csv)                                                                     |
+| 2| Web UI (html)                              | [Click Here](../templates/main.html)                                                                                   |
+---
