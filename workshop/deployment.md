@@ -4,7 +4,7 @@ In order to deploy the anomaly detection demo,
 
   1. Go to the [OpenShift Console](https://console-openshift-console.apps.ieee.8goc.p1.openshiftapps.com/) and log in with your credentials. 
 
-
+![alt-text](../images/deployment-1 "image_tooltip")
 
   2. Once you sign in, switch your view from Developer -> Administratior (located at the top of the sidebar). The Administrator view allows you to see every component of the cluster.
 
