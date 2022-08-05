@@ -1,22 +1,9 @@
 # Application Deployment
 
-By the end of this tutorial you will learn how to create, containerize, and deploy the Anomaly Detection demo application that allows the user to visualize pump data along with associated anomalies. 
-
-The app is deployed using minimal Web UI and utilizes synthetic data that mimics real life sensor data.
-
-All source code and data used this demo can be found in this repository: 
-
-|  | **File**                                  |                                                              Description                                                         |
-|-:|:----------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------|
-| 1| [static](../static)                 |      Contains synthetic data used in the demo |
-| 2| [wsgi.py](../wsgi.py)      |     Calls main.html and ...                                                   |
-| 3| [config.py](../config.py)    | Establishes 2-way socket communication |
-| 4| [requirements.txt](../requirements.txt) | Specifies default required packages |
-| 5| [main.html](../templates/main.html)  | Defines application framework | 
+By the end of this tutorial you will learn how to create, containerize, and deploy the Anomaly Detection demo application that allows the user to visualize pump data along with associated anomalies.
 
 
-
-In order to deplot the anomaly detection demo, 
+In order to deploy the anomaly detection demo, 
 
   1. Go to the [OpenShift Console](https://console-openshift-console.apps.ieee.8goc.p1.openshiftapps.com/) and log in with your credentials. 
 
