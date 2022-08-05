@@ -3,7 +3,7 @@ current demo that displays web ui to allow user to generate a graph displaying p
 
 The app is deployed using minimal Web UI and utilizes synthetic data that mimics real life sensor data. Once deployed, a start and stop button can be used to generate a graph displaying pump data and associated anomalies. 
 
-All source code and data used this demo can be found in this repository: 
+All source code and data used for this demo can be found in this repository: 
 
 |  | **File**                                  |                                                              Description                                                         |
 |-:|:----------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------|
