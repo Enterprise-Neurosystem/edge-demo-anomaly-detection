@@ -1,4 +1,4 @@
-# Demo Deployment
+# Application Deployment
 
 In order to deploy the anomaly detection demo, 
 
