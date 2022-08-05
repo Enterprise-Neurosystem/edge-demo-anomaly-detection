@@ -1,6 +1,6 @@
 # Application Deployment
 
-In order to deploy the anomaly detection demo, 
+By the end of this tutorial you will learn how to create, containerize, and deploy the Anomaly Detection demo application that allows the user to visualize pump data along with associated anomalies. 
 
   1. Go to the [OpenShift Console](https://console-openshift-console.apps.ieee.8goc.p1.openshiftapps.com/) and log in with your credentials. 
 
