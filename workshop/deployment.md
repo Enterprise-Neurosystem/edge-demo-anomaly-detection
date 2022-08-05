@@ -4,14 +4,15 @@ By the end of this tutorial you will learn how to create, containerize, and depl
 
 The app is deployed using minimal Web UI and utilizes synthetic data that mimics real life sensor data.
 
-Feel free to explore the raw data as well as the source code used for this demo:
+All source code and data used this demo can be found in this repository: 
 
 |  | **File**                                  |                                                              Description                                                         |
 |-:|:----------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------|
-| 1| [static](../static/casing1correcteddate.csv)                 |      Contains synthetic data used in the demo |
-| 2| [Application Framework (html)](../templates/main.html)       |                                                               |
+| 1| [static](../static)                 |      Contains synthetic data used in the demo |
+| 2| [wsgi.py](../wsgi.py)      |     Calls main.html and ...                                                   |
 | 3| [config.py](../config.py)    | Establishes 2-way socket communication |
 | 4| [requirements.txt](../requirements.txt) | Specifies default required packages |
+| 5| [main.html](../templates/main.html)  | Defines application framework | 
 
 
 
