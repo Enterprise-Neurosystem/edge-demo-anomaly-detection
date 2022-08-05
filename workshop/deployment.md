@@ -27,7 +27,7 @@ In order to deploy the anomaly detection demo,
 
   8. You will now need to provide the [GitHub URL](https://github.com/Enterprise-Neurosystem/edge-demo-anomaly-detection) for the Anomaly Detection Demo. 
   
-  URL: https://github.com/Enterprise-Neurosystem/edge-demo-anomaly-detection
+    URL: https://github.com/Enterprise-Neurosystem/edge-demo-anomaly-detection
   
   9. Once the Builder Image has been detected, you should see that Python 3.9 (UBI 8) has been automatically selected as the import strategy. This demo utilizes a different version of Python, so you will need to click on "Edit Import Strategy". 
 
