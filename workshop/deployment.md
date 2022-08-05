@@ -13,7 +13,9 @@ In order to deploy the anomaly detection demo,
 
 
   4. You will now need to create a project name, display name, and brief description of your project. Make sure that your project and display name do not contain any upper case letters and your project name does not contain any spaces. It is also good practice to keep your project and display names consistent, removing any hyphens or underscores in the latter, eg: 
+  
   Name: test-anomaly-detection-demo
+  
   Display name: test anomaly detection demo
   
   5. Once you are done creating your project, switch back to the Developer view, where we will containerize the source code from GitHub. 
