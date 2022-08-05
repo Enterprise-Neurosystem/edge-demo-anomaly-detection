@@ -69,11 +69,11 @@ In order to deploy the anomaly detection demo,
 
 ![alt-text](./images/deployment-14.5.png "image_tooltip")
 
-  15. In the Application environment, you should seee two buttons: "Start Plot" and "Stop Plot". Click "Start Plot" to begin the data visualization. 
+  15. In the Application environment, you should seee two buttons: "Start Plot" and "Stop Plot". Click "Start Plot" to begin the data visualization. You should see data points starting to appear on the graph.
 
 ![alt-text](./images/deployment-15.png "image_tooltip")
 
-  16. You should see data points starting to appear on the graph. Once enough data points have been plotted,
+  16. Once enough data points have been plotted, a linear regression begins to take place which determines a mean standard deviation. The green peaks signify high pump pressure relative to the mean which constitutes an anomaly. In this example, our pump fails on October 3rd, at which point the plot stops. 
 
 ![alt-text](./images/deployment-16.png "image_tooltip")
 
