@@ -6,13 +6,12 @@ The app is deployed using minimal Web UI and utilizes synthetic data that mimics
 
 Feel free to explore the raw data as well as the source code used for this demo:
 
-|  | **Resource**                                  |                                                              Description                                                         |
+|  | **File**                                  |                                                              Description                                                         |
 |-:|:----------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------|
-| 1| [Synthetic Data](../static/casing1correcteddate.csv)                                 |                                                                  |
-| 2| [Application Framework (html)](../templates/main.html)                             |                                                                                   |
-| 3| [config](../config.py)    | Establishes 2-way socket communication |
-
-| 4| [Requirements](../requirements.txt) | Specifies default required packages |
+| 1| [static](../static/casing1correcteddate.csv)                 |      Contains synthetic data used in the demo |
+| 2| [Application Framework (html)](../templates/main.html)       |                                                               |
+| 3| [config.py](../config.py)    | Establishes 2-way socket communication |
+| 4| [requirements.txt](../requirements.txt) | Specifies default required packages |
 
 
 
