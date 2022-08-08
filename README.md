@@ -1,4 +1,4 @@
-#edge-demo-anomaly-detection
+# edge-demo-anomaly-detection
 
 ## Project Desctiption
 
