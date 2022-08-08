@@ -1,3 +1,5 @@
 # Workshop
 
-This folder contains workshop materials 
+This folder contains the following workshop materials:
+
+
