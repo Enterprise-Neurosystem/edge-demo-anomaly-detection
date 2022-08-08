@@ -1,5 +1,4 @@
-# edge-demo-anomaly-detection
-current demo that displays web ui to allow user to generate a graph displaying pump data and associated anomalies
+# Edge Demo Anomaly Detection
 
 The app is deployed using minimal Web UI and utilizes synthetic data that mimics real life sensor data. Once deployed, a start and stop button can be used to generate a graph displaying pump data and associated anomalies. 
 
@@ -10,7 +9,7 @@ All source code and data used for this demo can be found in this repository:
 | 1| [.s2i](../.s2i)                 |      Contains |
 | 2| [managers](../managers)      |          |
 | 3| [static](../static)                 |      Contains synthetic data used in the demo |
-| 4| [templates](../templates)                 |      Contains main.html  |
+| 4| [templates](../templates)                 |      Contains main.html (defines framework) |
 | 5| [workshop](../workshop)                 |   Contains demo instructions    |
 | 3| [config.py](../config.py)    | Establishes 2-way socket communication |
 | 4| [requirements.txt](../requirements.txt) | Specifies default required packages |
