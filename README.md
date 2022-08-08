@@ -5,12 +5,16 @@ The app is deployed using minimal Web UI and utilizes synthetic data that mimics
 
 All source code and data used for this demo can be found in this repository: 
 
-|  | **File**                                  |                                                              Description                                                         |
-|-:|:----------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------|
-| 1| [static](../static)                 |      Contains synthetic data used in the demo |
-| 2| [wsgi.py](../wsgi.py)      |     Gunicorn server, calls main.html and obtains data                                     |
+|  | **File/Folder**                                  |                           Description                                                         |
+|-:|:----------------------------------------------------:|:------------------------------------------------------------------------------------------|
+| 1| [.s2i](../.s2i)                 |      Contains |
+| 2| [managers](../managers)      |          |
+| 3| [static](../static)                 |      Contains synthetic data used in the demo |
+| 4| [templates](../templates)                 |      Contains main.html  |
+| 5| [workshop](../workshop)                 |   Contains demo instructions    |
 | 3| [config.py](../config.py)    | Establishes 2-way socket communication |
 | 4| [requirements.txt](../requirements.txt) | Specifies default required packages |
+| 2| [wsgi.py](../wsgi.py)      |     Gunicorn server, calls main.html and obtains data     |
 | 5| [main.html](../templates/main.html)  | Defines application framework | 
 
 ## Tutorial
