@@ -1,4 +1,6 @@
-# Edge Demo Anomaly Detection
+#edge-demo-anomaly-detection
+
+## Project Desctiption
 
 The app is deployed using minimal Web UI and utilizes synthetic data that mimics real life sensor data. Once deployed, a start and stop button can be used to generate a graph displaying pump data and associated anomalies. 
 
@@ -22,3 +24,6 @@ By the end of this tutorial you will learn how to create, containerize, and depl
 
 [Begin the tutorial.](./workshop/deployment.md)
 
+## Contact
+
+areznik@redhat.com for information regarding this project.
