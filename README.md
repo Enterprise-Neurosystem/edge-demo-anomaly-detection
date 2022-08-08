@@ -9,7 +9,7 @@ All source code and data used for this demo can be found in this repository:
 | 1| [.s2i](../.s2i)                 |      Contains |
 | 2| [managers](../managers)      |          |
 | 3| [static](../static)                 |      Contains synthetic data used in the demo |
-| 4| [templates](../templates)                 |      Contains main.html (defines framework) |
+| 4| [templates](../templates)                 |      Contains main.html (defines app framework) |
 | 5| [workshop](../workshop)                 |   Contains demo instructions    |
 | 3| [config.py](../config.py)    | Establishes 2-way socket communication |
 | 4| [requirements.txt](../requirements.txt) | Specifies default required packages |
