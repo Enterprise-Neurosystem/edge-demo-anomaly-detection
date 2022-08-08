@@ -7,7 +7,7 @@ All source code and data used for this demo can be found in this repository:
 |  | **File/Folder**                                  |                           Description                                                         |
 |-:|:----------------------------------------------------:|:------------------------------------------------------------------------------------------|
 | 1| [.s2i](../.s2i)                 |      Contains |
-| 2| [managers](../managers)      |     Contains data managers     |
+| 2| [managers](../managers)      |     Contains data managers (pass data and prepare for plotting)   |
 | 3| [static](../static)                 |      Contains synthetic data used in the demo |
 | 4| [templates](../templates)                 |      Contains main.html (defines app framework) |
 | 5| [workshop](../workshop)                 |   Contains demo instructions    |
